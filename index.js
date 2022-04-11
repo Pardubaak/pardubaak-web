@@ -43,4 +43,4 @@ const prefix = '-'
 
 
 
-client.login("OTYxMzI4Nzc2NDMwNjIwNzUz.Yk3ZMA.4w5Arto9Tyi9SxeA-kV_oKufWjg");
+client.login(" ");
